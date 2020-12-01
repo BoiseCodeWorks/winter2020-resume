@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(246, 246, 255);
+}
+
+h1 {
+  margin: 0;
+}
+
+header {
+  text-align: center;
+  border-bottom: 1px solid black;
+  padding-bottom: 1em;
+}
+p { 
+  margin: 0
+}
+ul {
+  margin: 0
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
+main {
+  padding: 1em 3em
+}
+
+.subheading {
+  text-align: center;
+  color: cornflowerblue;
+}
+
+
+.job {
+  margin-bottom: 1em;
+}
+
+.d-flex {
+  display: flex;
+}
+.justify-content-between {
+  justify-content: space-between;
+}
+
+#volunteer-experience {
+  padding: 0 3em;
+}
